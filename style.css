@@ -1,0 +1,63 @@
+:root {
+    --muted: #6b7280;
+    --pin: #e11d48;
+    --pin-ring: rgba(225, 29, 72, 0.25);
+  }
+  
+  /* Map layout */
+  .map-wrap {
+    position: relative;
+    overflow: hidden;
+    min-height: 70vh;
+    background: #f8fafc;
+  }
+  .map-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    user-select: none;
+    -webkit-user-drag: none;
+  }
+  #pins {
+    position: absolute;
+    inset: 0;
+  }
+  
+  /* Accessible pin buttons */
+  .pin {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    background: var(--pin);
+    box-shadow: 0 0 0 6px var(--pin-ring);
+    cursor: pointer;
+  }
+  .pin:hover { transform: translate(-50%, -50%) scale(1.06); }
+  .pin:focus { outline: 3px solid #0d6efd; outline-offset: 2px; }
+  
+  /* Right panel */
+  .location-badge { position: sticky; top: 0; z-index: 1; }
+  .text-muted { color: var(--muted) !important; }
+  
+  /* Photo grid */
+  .photo-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: .75rem;
+  }
+  .photo-grid a {
+    display: block;
+    border-radius: .5rem;
+    overflow: hidden;
+    border: 1px solid #e5e7eb;
+  }
+  .photo-grid img {
+    display: block;
+    width: 100%;
+    height: 140px;
+    object-fit: cover;
+  }
+  
