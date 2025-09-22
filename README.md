@@ -51,7 +51,7 @@ This project was created as part of the **CS5610 Web Development** course at Nor
 ---
 
 ## 🎥 Video Demo
-Link of video demonstration: 
+Link of video demonstration: https://github.com/zhuoyumiao/homepage/releases/download/v1.0.0/demovideo.mp4
 
 Demonstration slide: https://docs.google.com/presentation/d/1BSxjAtiIHsOu3krMY7_weiDlXbmVeh_rmLzXQTdzRfM/edit?usp=sharing
 
