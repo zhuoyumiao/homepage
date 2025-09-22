@@ -46,7 +46,7 @@ Link: https://zhuoyumiao.github.io/homepage/
 ---
 
 ## 📚 Reference to the Class
-This project was created as part of the **CS5610 Web Development** course at Northeastern University.
+This project was created as part of the **CS5610 Web Development** course at Northeastern University. https://johnguerra.co/classes/webDevelopment_online_fall_2025/
 
 ---
 
