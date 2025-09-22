@@ -7,10 +7,11 @@ The objective is to provide a simple, responsive, and accessible website to intr
 ---
 
 ## 📸 Demo
-![Demo Screenshot1](images/demo1.JPEG)
-![Demo Screenshot2](images/demo2.JPEG)
-![Demo Screenshot3](images/demo3.JPEG)
-![Demo Screenshot4](images/demo4.JPEG)
+![Demo Screenshot1](images/demo1.png)
+![Demo Screenshot2](images/demo2.png)
+![Demo Screenshot3](images/demo3.png)
+![Demo Screenshot4](images/demo4.png)
+![Demo Screenshot5](images/demo5.png)
 
 ---
 
@@ -33,7 +34,26 @@ npm install
 
 # Open index.html directly in the browser
 # or use a simple local server
+```
 
-## Author & Link
+---
+
+## 👩‍💻 Author & Link
 Author: Zhuoyu Miao
 Link: https://zhuoyumiao.github.io/homepage/
+
+---
+
+## 📚 Reference to the Class
+This project was created as part of the **CS5610 Web Development** course at Northeastern University.
+
+---
+
+## 🎥 Video Demo
+Link of video demonstration: 
+
+---
+
+## 🤖 AI usage
+Used chatGPT to help me generate the css file of my footprints page. Used the GPT-5 and prompt “make an css file that generates a world map which we can click and shows pictures”.
+Used chatGPT to help me generate the README.md file. Used GPT-5 and prompt “write a readme with Good project name Project objective Screenshot (gifs are preferred) Tech requirements How to install/use Author with link to homepage Reference to the class with link Link to the video demonstration”
