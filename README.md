@@ -40,6 +40,7 @@ npm install
 
 ## 👩‍💻 Author & Link
 Author: Zhuoyu Miao
+
 Link: https://zhuoyumiao.github.io/homepage/
 
 ---
@@ -51,6 +52,8 @@ This project was created as part of the **CS5610 Web Development** course at Nor
 
 ## 🎥 Video Demo
 Link of video demonstration: 
+
+Demonstration slide: https://docs.google.com/presentation/d/1BSxjAtiIHsOu3krMY7_weiDlXbmVeh_rmLzXQTdzRfM/edit?usp=sharing
 
 ---
 
