@@ -32,7 +32,7 @@ cd homepage
 npm install
 
 # Open index.html directly in the browser
-# or use a simple local server (example with VSCode Live Server extension)
+# or use a simple local server
 
 ## Author & Link
 Author: Zhuoyu Miao
