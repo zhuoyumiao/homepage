@@ -59,7 +59,7 @@ const PLACES = [
       "./images/16.JPG",
       "./images/17.JPG",
       "./images/18.JPG",
-      "./images/19.JPG",
+      "./images/19.jpg",
     ],
   },
 ];
